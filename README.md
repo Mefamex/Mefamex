@@ -1,16 +1,13 @@
-### Hi there 👋
+## About Me
 
-<!--
-**Mefamex/Mefamex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Media
+
+- [LinkedIn]([link](https://www.linkedin.com/in/mefamex))
+- [Instagram]([link](https://www.instagram.com/mefamex?igsh=MWk2eThxaHR0d2Vvbw==))
+- 💬 Discord: mefamex
+
+## Thanks
+
+Thank you for visiting my profile. Don't hesitate to contact me for more information or collaboration opportunities!
