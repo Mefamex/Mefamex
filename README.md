@@ -1,6 +1,6 @@
 ## About Me
 
-
+I am a young individual in their twenties who has been deeply involved with software for over five years. Instead of wasting spare time left from life and classes, I devote it to coding.
 
 ## Social Media
 
