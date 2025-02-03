@@ -1,4 +1,7 @@
-<h1 align="center"><img align="center" src="https://mefamex.com/src/assets/images/mfmx_symbol/mefamex_logo_bgb.webp" alt="mefamex_Website" height="auto" width="50" /> MEFAMEX </h1>
+<h1 align="center">
+    <img align="center" src="https://mefamex.com/src/assets/images/mfmx_symbol/mefamex_logo_bgb.webp" alt="mefamex_Website" height="auto" width="50" /> 
+    MEFAMEX 
+</h1>
 
 
 <br /><br />
@@ -10,11 +13,11 @@ I am a individual in their twenties who has been deeply involved with software f
 
 <br /><br />
 
-asdawd
+
 ## Website
 Visit -> [mefamex.com](https://mefamex.com) => 
 <a href="https://mefamex.com/" target="blank" rel="nofollow">
-  <img align="center" src="https://mefamex.com/src/assets/images/mfmx_symbol/mefamex_logo.png" alt="mefamex_Website" height="auto" width="50" />
+    <img align="center" src="https://mefamex.com/src/assets/images/mfmx_symbol/mefamex_logo.png" alt="mefamex_Website" height="auto" width="50" />
 </a>
 
 
@@ -23,15 +26,15 @@ Visit -> [mefamex.com](https://mefamex.com) =>
 
 ## Social Media
 <p align="left" style="display: flex; justify-content: space-evenly; flex-direction: raw; flex-wrap: wrap;" >
-  <a href="https://linkedin.com/in/mefamex" target="blank"  rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mefamex_linkedin" height="50" width="50"/>
-  </a> 
-  <a href="https://instagram.com/mefamex" target="_blank"  rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mefamex_instagram" height="50" width="50" />
-  </a>
-  <a href="mailto:info@mefamex.com"  target="blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="mefamex_gmail" height="50" width="200">
-  </a>
+    <a href="https://linkedin.com/in/mefamex" target="blank"  rel="nofollow">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mefamex_linkedin" height="50" width="50"/>
+    </a> 
+    <a href="https://instagram.com/mefamex" target="blank"  rel="nofollow">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mefamex_instagram" height="50" width="50" />
+    </a>
+    <a href="mailto:info@mefamex.com"  target="blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="mefamex_gmail" height="50" width="200">
+    </a>
 </p>
 
 
@@ -40,8 +43,8 @@ Visit -> [mefamex.com](https://mefamex.com) =>
 
 ## Thanks
 <p align="left">
-  Thank you for visiting my profile. Don't hesitate to contact me for more information or collaboration opportunities!
-  <img src="https://komarev.com/ghpvc/?username=mefamex&label=Profile%20views&color=01908d&style=plastic" alt="mefamex Github Profile viewed" height="20" />
+    Thank you for visiting my profile. Don't hesitate to contact me for more information or collaboration opportunities!
+    <img src="https://komarev.com/ghpvc/?username=mefamex&label=Profile%20views&color=01908d&style=plastic" alt="mefamex Github Profile viewed" height="20" />
 </p>
 
 
