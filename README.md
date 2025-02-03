@@ -26,7 +26,7 @@ Visit -> [mefamex.com](https://mefamex.com) =>
   <a href="https://linkedin.com/in/mefamex" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mefamex_linkedin" height="50" width="50"/>
   </a> 
-  <a href="https://instagram.com/mefamex" target="blank">
+  <a href="https://instagram.com/mefamex" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mefamex_instagram" height="50" width="50" />
   </a>
   <a href="mailto:info@mefamex.com"  target="blank">
