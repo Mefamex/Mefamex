@@ -29,9 +29,11 @@ Visit -> [mefamex.com](https://mefamex.com) =>
     <a href="https://linkedin.com/in/mefamex" target="blank"  rel="nofollow">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mefamex_linkedin" height="50" width="50"/>
     </a> 
+    <>&nbsp;</>
     <a href="https://instagram.com/mefamex" target="blank"  rel="nofollow">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mefamex_instagram" height="50" width="50" />
     </a>
+    <>&nbsp;</>
     <a href="mailto:info@mefamex.com"  target="blank" rel="nofollow">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="mefamex_gmail" height="50" width="200">
     </a>
