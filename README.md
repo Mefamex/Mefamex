@@ -1,7 +1,6 @@
 <h1 align="center" style="color: white; font-weight: bold">
+    MEFAMEX <br>
     <img align="center" src="https://mefamex.com/src/assets/images/mfmx_symbol/mefamex_logo_bgb.webp" alt="mefamex_Website" height="300" /> 
-    <br>
-    MEFAMEX 
 </h1>
 
 <div>
