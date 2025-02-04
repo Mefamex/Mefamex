@@ -44,8 +44,8 @@
 
 <div align="center">
     <p align="left">approximately</p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mefamex&show_icons=true&theme=transparent" alt="Mefamex Github Profile Stats" />
-    <img align="center" src="https://github-readme-streak-stats-weld-one.vercel.app?user=Mefamex&theme=tokyonight-duo&border_radius=58&locale=en&date_format=j%20M%5B%20Y%5D&mode=daily&starting_year=2023" alt="Mefamex Github Profile Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mefamex&show_icons=true&theme=dark&border_radius=58&starting_year=2023" alt="Mefamex Github Profile Stats" />
+    <img align="center" src="https://github-readme-streak-stats-weld-one.vercel.app?user=Mefamex&theme=dark&border_radius=58&locale=en&date_format=j%20M%5B%20Y%5D&mode=daily&starting_year=2023" alt="Mefamex Github Profile Stats" />
 </div>
 
 <br /><br />
