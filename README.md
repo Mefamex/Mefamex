@@ -16,28 +16,22 @@
 
 
 
-<div>
+<div align="center">
     <span>
         <a href="https://instagram.com/mefamex" target="blank"  rel="noopener noreferrer">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mefamex_instagram" height="40"/>
-            @mefamex
+            <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/Mefamex_instagram.png" alt="mefamex_instagram" height="200"/>
         </a>
     </span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>
         <a href="https://linkedin.com/in/mefamex" target="blank"  rel="noopener noreferrer">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mefamex_linkedin" height="40"/>
-            @mefamex
+            <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/Mefamex_linkedin.png" alt="mefamex_linkedin" height="200"/>
         </a>
     </span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>
         <a href="mailto:info@mefamex.com"  target="blank" rel="noopener noreferrer">
-            <img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="mefamex_gmail" height="40">
-            info@mefamex.com
+            <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mefamex_mail.png" alt="mefamex_mail" height="200"/>
         </a>
     </span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>
         <a href="https://mefamex.com/contact/"  target="blank" rel="noopener noreferrer">
             <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mefamex_logo.png" alt="mefamex_contact_anonymously" height="40">
