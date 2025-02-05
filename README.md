@@ -24,7 +24,7 @@
             <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/Mefamex_linkedin.png" alt="mefamex_linkedin" height="150"/>
         </a>
         <a href="mailto:info@mefamex.com"  target="blank" rel="noopener noreferrer">
-            <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mefamex_mail.png" alt="mefamex_mail" height="150"/>
+            <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mfmx_mail.png" alt="mefamex_mail" height="150"/>
         </a>
         <a href="https://mefamex.com/contact/"  target="blank" rel="noopener noreferrer">
             <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mfmx_anonymous.png" alt="mefamex_contact_anonymously" height="150">
