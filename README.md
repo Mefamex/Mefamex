@@ -5,7 +5,9 @@
     </a>
 </h1>
 <div>
-    <p> I am a individual in their twenties who has been deeply involved with software for over ten years. Instead of wasting spare time left from life and lessons, I devote it to coding.</p>
+    <p> I am a individual in their twenties who has been deeply involved with software for over 10 years.</p> 
+    <p> Instead of wasting spare time left from life and lessons, I devote it to coding.</p>
+    <br>
     <p> Visit Website =>
         <a  href="https://mefamex.com/" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">https://mefamex.com/</a>
     </p>
@@ -54,7 +56,7 @@
 
 <h2 align="center" style="color: white; font-weight: bold">Thanks!</h2>
 <p align="left">
-    Thank you for visiting my profile. Don't hesitate to contact me for more information or collaboration opportunities!
+    Thank you for visiting my profile. <br> Don't hesitate to contact me for more information or collaboration opportunities!
     <img align="center" src="https://komarev.com/ghpvc/?username=mefamex&label=Profile%20views&color=01908d&style=plastic" alt="mefamex Github Profile viewed" height="20" />
 </p>
 
