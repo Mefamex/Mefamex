@@ -1,6 +1,6 @@
 <h1 align="center"  style="color: white; font-weight: bold; font-size: 3em;">
     MEFAMEX <br>
-    <a  href="https://mefamex.com/" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">
+    <a  href="https://mefamex.com" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mefamex_logo_bgb(2).png" alt="mefamex_Website" height="300" /> 
     </a>
 </h1>
