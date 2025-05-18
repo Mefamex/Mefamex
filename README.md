@@ -9,7 +9,7 @@
     <p> Instead of wasting spare time left from life and lessons, I devote it to coding.</p>
     <br>
     <p> Visit Website =>
-        <a  href="https://mefamex.com/" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">https://mefamex.com/</a>
+        <a  href="https://mefamex.com" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">https://mefamex.com</a>
     </p>
 </div>
 
