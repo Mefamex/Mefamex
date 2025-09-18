@@ -55,6 +55,7 @@
 
 
 
+
 <h2 align="center" style="color: white; font-weight: bold">Thanks!</h2>
 <p align="left">
     Thank you for visiting my profile. <br> Don't hesitate to contact me for more information or collaboration opportunities!
