@@ -43,9 +43,9 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,java,cs,react,nodejs,html,css,linux,git,postgres,figma,arduino" /> </p>
 
 <div align="center">
-    <img align="center" width="420em" src="https://github-readme-stats.vercel.app/api?username=Mefamex&show_icons=true&theme=react&border_radius=58&custom_title=MEFAMEX%20Stats&title_color=00ffe7&icon_color=4e54c8&bg_color=0d1117"  alt="Mefamex Github Profile Stats" />
-    <img align="center" width="420em" src="https://github-readme-streak-stats-weld-one.vercel.app?user=Mefamex&theme=dark&border_radius=58&locale=en&date_format=j%20M%5B%20Y%5D&mode=daily&starting_year=2023" alt="Mefamex Github Profile Stats" />
-    <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mefamex&layout=donut-vertical&langs_count=10&theme=react&bg_color=0d1117&title_color=00ffe7" alt="Mefamex Github Profile Top Languages"/>
+    <!-- <img align="center" width="420em" src="https://github-readme-stats.vercel.app/api?username=Mefamex&show_icons=true&theme=react&border_radius=58&custom_title=MEFAMEX%20Stats&title_color=00ffe7&icon_color=4e54c8&bg_color=0d1117"  alt="Mefamex Github Profile Stats" /> -->
+    <img align="center" width="420em" src="https://github-readme-streak-stats-weld-one.vercel.app?user=Mefamex&theme=dark&border_radius=58&locale=en&date_format=j%20M%5B%20Y%5D&mode=daily&starting_year=2023" alt="Mefamex Github Profile Stats" /> 
+    <!-- <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mefamex&layout=donut-vertical&langs_count=10&theme=react&bg_color=0d1117&title_color=00ffe7" alt="Mefamex Github Profile Top Languages"/> -->
     <p><br></p>
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mefamex&theme=react-dark&days=60" alt="Mefamex Github Profile Activity Stats" />
 </div>
