@@ -1,6 +1,6 @@
 <h1 align="center"  style="color: white; font-weight: bold; font-size: 3em;">
     MEFAMEX <br>
-    <a  href="https://mefamex.com" target="blank"  rel="noopener noreferrer" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">
+    <a  href="https://www.mefamex.com" target="blank"  rel="noopener noreferrer" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mefamex_logo_bgb(2).png" alt="mefamex_Website" height="300" /> 
     </a>
 </h1>
@@ -9,7 +9,7 @@
     <p> Instead of wasting spare time left from life and lessons, I devote it to coding.</p>
     <br>
     <p> Visit Website =>
-        <a  href="https://mefamex.com" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">https://mefamex.com</a>
+        <a  href="https://www.mefamex.com" style="font-size: 0.6em; text-decoration:underline; line-height:0.8" target="blank" rel="noopener noreferrer">https://www.mefamex.com</a>
     </p>
 </div>
 
@@ -28,7 +28,7 @@
         <a href="mailto:info@mefamex.com"  target="blank" rel="noopener noreferrer">
             <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mfmx_mail.png" alt="mefamex_mail" height="150"/>
         </a>
-        <a href="https://mefamex.com/contact/"  target="blank" rel="noopener noreferrer">
+        <a href="https://www.mefamex.com/contact/"  target="blank" rel="noopener noreferrer">
             <img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mfmx_anonymous.png" alt="mefamex_contact_anonymously" height="150">
         </a>
 </div>
