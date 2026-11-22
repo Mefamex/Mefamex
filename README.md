@@ -14,10 +14,7 @@
     </ul>
 </div>
 
-<br />
-
-
-
+<br /><br />
 
 <div align="center">
     <a href="https://instagram.com/mefamex" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/Mefamex_instagram.png" alt="mefamex_instagram" height="150" /></a>
@@ -26,18 +23,17 @@
     <a href="https://www.mefamex.com/contact/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/Mefamex/Mefamex/refs/heads/main/mfmx_anonymous.png" alt="mefamex_contact_anonymously" height="150" /></a>
 </div>
 
-
-<br /><br /><br /><br />
-
-
+<br /><br />
 
 <h2 align="center">My Stats</h2>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python,go,ts,js,java,cs,react,nodejs,html,css,linux,git,postgres,figma,arduino" alt="Tech Stack" /></p>
 
-<p align="center"><img width="420" src="https://readme-stats-murex-sigma.vercel.app/api?username=Mefamex&show_icons=true&theme=react&border_radius=58&custom_title=MEFAMEX%20Stats&title_color=00ffe7&icon_color=4e54c8&bg_color=0d1117" alt="Mefamex Github Profile Stats" /></p>
-<p align="center"><img width="420" src="https://github-readme-streak-stats-weld-one.vercel.app?user=Mefamex&theme=dark&border_radius=58&locale=en&date_format=j%20M%5B%20Y%5D&mode=daily&starting_year=2023" alt="Mefamex Github Streak Stats" /></p>
-<p align="center"><img width="420" src="https://readme-stats-murex-sigma.vercel.app/api/top-langs/?username=Mefamex&layout=donut-vertical&langs_count=10&theme=react&bg_color=0d1117&title_color=00ffe7" alt="Mefamex Github Profile Top Languages" /></p>
+<p align="center">
+    <img width="375" src="https://readme-stats-murex-sigma.vercel.app/api?username=Mefamex&show_icons=true&theme=react&border_radius=58&custom_title=MEFAMEX%20Stats&title_color=00ffe7&icon_color=4e54c8&bg_color=0d1117" alt="Mefamex Github Profile Stats" />
+    <img width="375" src="https://github-readme-streak-stats-weld-one.vercel.app?user=Mefamex&theme=dark&border_radius=58&locale=en&date_format=j%20M%5B%20Y%5D&mode=daily&starting_year=2023" alt="Mefamex Github Streak Stats" />
+</p>
+<p align="center"><img width="500" src="https://readme-stats-murex-sigma.vercel.app/api/top-langs/?username=Mefamex&layout=donut&langs_count=10&theme=react&bg_color=0d1117&title_color=00ffe7" alt="Mefamex Github Profile Top Languages" /></p>
 <p align="center"><img src="https://activity-graph-nu.vercel.app/graph?username=Mefamex&theme=react-dark&days=60" alt="Mefamex Github Profile Activity Stats" /></p>
 
 <br /><br /><br /><br />
